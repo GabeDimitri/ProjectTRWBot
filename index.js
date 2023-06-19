@@ -42,4 +42,4 @@ client.on('message', (message) => {
             });
     }
 });
-client.login(process.env.DISCORD_TOKEN);xSASWDX
+client.login(process.env.DISCORD_TOKEN);
